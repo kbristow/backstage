@@ -4,6 +4,8 @@ metadata:
   name: my-new-applications
   # This is an extra long description
   description: The is my new application
+  annotations:
+    'backstage.io/kubernetes-id': dice-roller
   links:
     - url: https://github.com/swagger-api/swagger-petstore
       title: GitHub Repo
